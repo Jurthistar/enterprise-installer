@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Installing required Python packages..."
+pip3 install --quiet tqdm colorama

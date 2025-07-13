@@ -1,0 +1,9 @@
+Package: enterprise-installer
+Version: 1.0
+Section: admin
+Priority: optional
+Architecture: all
+Depends: python3, python3-pip, sudo
+Maintainer: Essambe
+Description: Enterprise software package installer with rollback and interactive mode.
+ Installs essential tools, backs up configs, supports rollback, and shows progress.

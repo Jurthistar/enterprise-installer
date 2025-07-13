@@ -1,0 +1,26 @@
+# Core tools
+curl
+git
+vim
+htop
+
+# Networking
+nmap
+net-tools
+traceroute
+
+# Development
+build-essential
+python3
+python3-pip
+
+# Web servers
+apache2
+nginx
+
+# Security
+fail2ban
+
+# Containers
+docker.io
+docker-compose
